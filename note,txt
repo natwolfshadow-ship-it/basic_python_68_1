@@ -1,0 +1,19 @@
+ git clone https://github.com/natwolfshadow-ship-it/basic_pyhon_68_1.git
+ cd name_folder
+ cd ..
+ ls
+ ls -al
+ pwd
+
+ Code .
+ antigravity .
+ 
+ git init
+ git remote add origin https://github.com/natwolfshadow-ship-it/basic_pyhon_68_1.git
+
+ git config --global user.name "your name"
+ git config --global user.email "your email"
+ 
+ git add.
+ git commit -m "your message"
+ git push origin main
